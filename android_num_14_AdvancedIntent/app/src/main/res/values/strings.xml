@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_num_14_AdvancedIntent</string>
+    <string name="Hw14_title">Intent 進階用法</string>
+    <string name="Hw14_phone">Call Phone</string>
+    <string name="Hw14_map">Google Map</string>
+    <string name="Hw14_web">Google Web</string>
+    <string name="Hw14_search">移至</string>
+</resources>
